@@ -49,7 +49,7 @@ while True:
         print("*** Extrato ***")
         print(f"Número de saques: {numero_saques}")
         print(f"Número de depositos: {numero_depositos}")
-        print(f"Seu saldo é: {saldo}")
+        print(f"Seu saldo é: R$ {saldo}")
 
 
     
