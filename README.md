@@ -16,3 +16,7 @@ O sistema terá a posibilida de criação de usuário novo.
 O sistema permitirá criação de uma nova conta.
 
 O sistema permitirá a listagem das contas criadas.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
